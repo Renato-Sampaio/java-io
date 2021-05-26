@@ -1,0 +1,21 @@
+FlieOutputStream
+Utilizando o FileOutputStream é possivel
+abrir um arquivo e gravar os dados
+sem necessariamente sobrescrever o arquivo existente
+
+Neste exemplo além de fechar o objeto o objeto com metodo close
+Também é necessario fechar o arquivoOutput.
+FlieOutputStream
+Utilizando o FileOutputStream é possivel
+abrir um arquivo e gravar os dados
+sem necessariamente sobrescrever o arquivo existente
+
+Neste exemplo além de fechar o objeto o objeto com metodo close
+Também é necessario fechar o arquivoOutput.
+FlieOutputStream
+Utilizando o FileOutputStream é possivel
+abrir um arquivo e gravar os dados
+sem necessariamente sobrescrever o arquivo existente
+
+Neste exemplo além de fechar o objeto o objeto com metodo close
+Também é necessario fechar o arquivoOutput.
